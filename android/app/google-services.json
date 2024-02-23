@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "754469411949",
+    "firebase_url": "https://interview-task-a1248-default-rtdb.firebaseio.com",
+    "project_id": "interview-task-a1248",
+    "storage_bucket": "interview-task-a1248.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754469411949:android:e1ea19b2d85b10cd25f364",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdch6YUWPSIOZdmNc04mdp9DaKbncngkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
